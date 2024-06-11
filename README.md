@@ -11,3 +11,12 @@ Notebook 4:
 statistical user define functions: mean,variance,median,range,mode,like,maximum,minimum.
 Notebook 5:
 Logical user define function:list,or,and,not,odd,even,
+
+
+**Day 4:**
+**Task 4:**
+**Notebook 1**
+Numpy home,Numpy creating arrays,arrays indexing,array slicing,data types,copy or view,array shape, array ierating,array join,array sort
+**Notebook 2**
+Numpy random,random permutation,normal distribution,binomial distribution,poisson distrubution,uniform distribution,Logistic distribution,
+multinomial distribution,exponential distribution,pareto distribution
