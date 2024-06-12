@@ -20,3 +20,18 @@ Numpy home,Numpy creating arrays,arrays indexing,array slicing,data types,copy o
 **Notebook 2**
 Numpy random,random permutation,normal distribution,binomial distribution,poisson distrubution,uniform distribution,Logistic distribution,
 multinomial distribution,exponential distribution,pareto distribution
+
+**Day 5:
+Task 5:**
+Pandas library
+DataFrame read CSV and xlsx file
+DataFrame operation:
+value counts,apply,unique,nunique,describe
+**Selection:**
+DataFrame col,row selection(loc,iloc)
+conditional selection
+column add,delete,update,index,remove index
+Operation : Addition,substraction,multiplication,division
+**Missing value**
+missing value checking
+missing value drop by row and by column
