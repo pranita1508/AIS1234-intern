@@ -38,6 +38,6 @@ missing value drop by row and by column
 
 **Day 6:
 Task 6:**
-Mitoplotlib Library & Seaborn Library
+**Mitoplotlib Library & Seaborn Library**
 line,histogram,Bar chart,Scatter Plot,Pie chart,Box plot,Area plot
 
