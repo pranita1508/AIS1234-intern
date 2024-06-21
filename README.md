@@ -43,6 +43,6 @@ line,histogram,Bar chart,Scatter Plot,Pie chart,Box plot,Area plot
 
 **Day 7:**
 **Task 7**
-Numpy Exercise
-Ecomerse Exercise
-Salaries Exercise
+1)Numpy Exercise
+2)Ecomerse Exercise
+3)Salaries Exercise
