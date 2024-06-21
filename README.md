@@ -41,3 +41,8 @@ Task 6:**
 **Mitoplotlib Library & Seaborn Library**
 line,histogram,Bar chart,Scatter Plot,Pie chart,Box plot,Area plot
 
+**Day 7:**
+**Task 7**
+Numpy Exercise
+Ecomerse Exercise
+Salaries Exercise
