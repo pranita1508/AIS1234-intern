@@ -39,9 +39,6 @@ missing value drop by row and by column
 **Day 6:
 Task 6:**
 **Mitoplotlib Library & Seaborn Library**
-
-**Task 7**
-**Case Study**
 line,histogram,Bar chart,Scatter Plot,Pie chart,Box plot,Area plot
 
 **Day 7:**
@@ -49,3 +46,6 @@ line,histogram,Bar chart,Scatter Plot,Pie chart,Box plot,Area plot
 1)Numpy Exercise
 2)Ecomerse Exercise
 3)Salaries Exercise
+
+**Task 8**
+**Case Study**
