@@ -52,3 +52,6 @@ line,histogram,Bar chart,Scatter Plot,Pie chart,Box plot,Area plot
 
 **Task 9**
 **Dashboard Creating**
+
+**Task 10**
+**Project**
